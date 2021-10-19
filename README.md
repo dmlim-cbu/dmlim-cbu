@@ -16,9 +16,9 @@
   - (선택) 산업 컴퓨터 비전 실제 - 황영배 교수님
     - [산업 컴퓨터비전 실제](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C): OpenCV 라이브러리를 이용해서 필터링, 기하학적, 측광학적 처리, 객체 검출과 인식과 같은 영상 인식을 학습 및 실습
 
-## [AI-Ex-30 포트폴리오 (21)](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/AI-Ex-30%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
+## [AI-Ex-30 포트폴리오 (23)](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/AI-Ex-30%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
 - 어프런티스 프로젝트 (4)
-- 지능로봇 실제 (5)
+- 지능로봇 실제 (7)
 - 산업 인공지능 개론 (4)
 - 딥러닝실제 (4)
 - 지능화 파일럿 프로젝트 (2)
