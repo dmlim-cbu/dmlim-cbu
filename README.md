@@ -19,7 +19,7 @@
 ## [AI-Ex-30 포트폴리오 (26)](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/AI-Ex-30%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
 - 어프런티스 프로젝트 (4)
 - 지능로봇 실제 (7)
-- 산업 인공지능 개론 (5)
+- 산업 인공지능 개론 (4)
 - 딥러닝실제 (4)
 - 지능화 파일럿 프로젝트 (4)
 - 컴퓨터 비전 실제 (2)
