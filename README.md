@@ -13,7 +13,7 @@
 - 3학기 전공과목
   - (공통) 지능화 파일럿 프로젝트 - 김현호 교수님, 김현용 교수님, 어규호 교수님
     - [지능화 파일럿 프로젝트](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8): 지능화 캡스톤 프로젝트의 결과물을 개선하여 파일럿 구현을 하고 개선하는 프로젝트를 수행
-  - (선택) 컴퓨터 비전 실제 - 황영배 교수님
+  - (선택) 산업 컴퓨터 비전 실제 - 황영배 교수님
     - [산업 컴퓨터비전 실제](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C): OpenCV 라이브러리를 이용해서 필터링, 기하학적, 측광학적 처리, 객체 검출과 인식과 같은 영상 인식을 학습 및 실습
 
 ## [AI-Ex-30 포트폴리오 (26)](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/AI-Ex-30%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
