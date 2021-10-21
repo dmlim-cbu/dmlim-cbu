@@ -9,7 +9,7 @@
     - [산업인공지능 개론](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0): 산업 현장 적용을 위한 인공지능 기술의 주요 개념 및 알고리즘을 학습 및 실습 (실무역량 강화) 
   - (선택) 딥러닝실제 - 전명근 교수님
     - [딥러닝실제](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C): 인공지능시스템의 기본이 되는 신경회로망 및 딥러닝에 대해서 학습
-특히, 파이썬과 텐서플로우를 이용한  구현 실습을 병행한다. 
+특히, 파이썬과 텐서플로우를 이용한 구현 실습을 병행 
 - 3학기 전공과목
   - (공통) 지능화 파일럿 프로젝트 - 김현호 교수님, 김현용 교수님, 어규호 교수님
     - [지능화 파일럿 프로젝트](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8): 지능화 캡스톤 프로젝트의 결과물을 개선하여 파일럿 구현을 하고 개선하는 프로젝트를 수행
