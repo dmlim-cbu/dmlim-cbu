@@ -17,7 +17,7 @@
     - [산업 컴퓨터비전 실제](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C): OpenCV 라이브러리를 이용해서 필터링, 기하학적, 측광학적 처리, 객체 검출과 인식과 같은 영상 인식을 학습 및 실습
 - 4학기 전공과목
   - (공통) 지능화 캡스톤 프로젝트 - 김현용 교수님
-    - [지능화 캡스톤 프로젝트](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8): 지능화 관련 교과목을 통해 배운 인공지능지식 활용하여 프로젝트를 수행하여 실무능력과 문제해결, 팀 단위 프로젝트 수행을 통한 리더십과 팀워크 향양
+    - [지능화 캡스톤 프로젝트](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8): 지능화 관련 교과목을 통해 배운 인공지능지식 활용하여 프로젝트를 수행하여 실무능력과 문제해결, 팀 단위 프로젝트 수행을 통한 리더십과 팀워크 함양
   - (선택) 연구윤리 및 연구과제 - 김곤우 교수님
     - [연구윤리 및 연구과제](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C): 석사논문 지도
 
