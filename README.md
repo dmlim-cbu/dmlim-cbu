@@ -21,7 +21,7 @@
   - (선택) 연구윤리 및 연구과제 - 김곤우 교수님
     - [연구윤리 및 연구과제](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C): 석사논문 지도
 
-## [AI-Ex-30 포트폴리오 (31)](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/AI-Ex-30%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
+## [AI-Ex-30 포트폴리오 (32)](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/AI-Ex-30%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
 - 어프런티스 프로젝트 (4)
 - 지능로봇 실제 (7)
 - 산업 인공지능 개론 (4)
@@ -29,6 +29,7 @@
 - 지능화 파일럿 프로젝트 (6)
 - 산업 컴퓨터 비전 실제 (4)
 - 창의자율과제 (2)
+- 교육-AI 고급과정(시각지능) (1)
 
 ## 활동
 - 창의자율과제
